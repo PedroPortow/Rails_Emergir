@@ -1,0 +1,10 @@
+source 'http://rubygems.org'
+
+gem 'cpf_utils', ">=1.0.0" # versão
+gem 'faker'
+
+
+# >=1.0.0 - maior ou igual a essa versão
+# ~>1.6 - aproximadamente 1.6 
+
+#bundle install pra instalar todas essas gems q vão aq (e também as gems das gems das gems das gems das gems)
